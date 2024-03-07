@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: pink;
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(128, 0, 53);
+}
